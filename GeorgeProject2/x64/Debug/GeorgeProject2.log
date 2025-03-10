@@ -1,0 +1,3 @@
+﻿  InputBuffer.cpp
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  GeorgeProject2.vcxproj -> C:\Users\Josha\source\repos\GeorgeProject2\x64\Debug\GeorgeProject2.exe
